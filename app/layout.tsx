@@ -14,9 +14,9 @@ const fontSans = FontSans({
   variable: '--font-sans'
 })
 
-const title = 'Morphic'
+const title = 'Iqrai'
 const description =
-  'A fully open-source AI-powered answer engine with a generative UI.'
+  'An AI-powered Hawza student engine with a generative UI.'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://morphic.sh'),
